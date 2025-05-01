@@ -5,7 +5,7 @@ const DUMMY_PRODUCTS = [
   {
     id: 'p1',
     price: 174,
-    title: 'French Green Clay',
+    title: 'French Green Clay 1',
     description: 'Minty Cool refreshing soap',
   },
   {
@@ -16,7 +16,7 @@ const DUMMY_PRODUCTS = [
   },
 ];
 
-const Products = (props) => {
+const Products = () => {
   return (
     <section className={classes.products}>
       <h2>Buy your favorite products</h2>
