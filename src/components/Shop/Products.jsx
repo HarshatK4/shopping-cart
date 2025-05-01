@@ -11,7 +11,7 @@ const DUMMY_PRODUCTS = [
   {
     id: 'p2',
     price: 169,
-    title: 'Rubharb',
+    title: 'Rubharbs',
     description: 'Blissful fragnance of lavender essential oil',
   },
 ];
